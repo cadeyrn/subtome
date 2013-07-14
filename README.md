@@ -16,7 +16,7 @@ Die Erweiterung erfordert zur Installation **keinen Neustart** des Browsers.
 
 Kompatibilität
 -----------------------------------------------
-Firefox 17.0 und neuer
+Firefox 21.0 und neuer
 
 Download
 -----------------------------------------------
