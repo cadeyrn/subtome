@@ -1,9 +1,13 @@
 {
-  "name" : "subtome",
-  "license" : "MPL 2.0",
-  "author" : "Sören Hentzschel",
-  "version" : "2.0",
-  "fullName" : "SubToMe - Universal Follow Button",
   "id" : "subtome@soeren-hentzschel.at",
-  "description" : "SubToMe makes it easy for people to follow web sites, because browsers don't."
+  "title" : "SubToMe - Universal Follow Button",
+  "name" : "subtome",
+  "version" : "2.0",
+  "description" : "SubToMe makes it easy for people to follow web sites, because browsers don't.",
+  "main": "index.js",
+  "author" : "Sören Hentzschel",
+  "engines": {
+    "firefox": ">=45.0a1"
+  },
+  "license" : "MPL 2.0"
 }
