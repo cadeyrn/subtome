@@ -5,7 +5,12 @@
   "version": "2.1",
   "description": "SubToMe makes it easy for people to follow web sites, because browsers don't.",
   "main": "index.js",
-  "author": "Sören Hentzschel",
+  "author": {
+    "name": "Sören Hentzschel",
+    "email": "kontakt@agenedia.com",
+    "url": "https://agenedia.com"
+  },
+  "homepage": "https://www.soeren-hentzschel.at",
   "engines": {
     "firefox": ">=45.0a1"
   },
