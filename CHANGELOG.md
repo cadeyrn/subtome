@@ -1,3 +1,11 @@
+### Version 2.1 (25. September 2016)
+
+- Flag für Multiprozess-Kompatibilität (e10s) gesetzt
+- Add-on-Beschreibung für deutschsprachige Version lokalisiert
+- Minimum-Version von Firefox 24 auf Firefox 45 angehoben, Code zur Unterstützung älterer Versionen als Firefox 29 entfernt
+- Entwicklung umgestellt von CFX auf JPM (1.1.4)
+- interne Code-Optimierungen
+
 ### Version 2.0 (13. April 2014)
 
 - Kompiliert mit Add-on SDK 1.16
