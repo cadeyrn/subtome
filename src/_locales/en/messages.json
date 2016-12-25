@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "SubToMe makes it easy for people to follow web sites, because browsers don't."
+  },
+  "actionbutton_title": {
+    "message": "Subscribe to page"
+  },
+  "page_has_no_feed": {
+    "message": "This page has no feed"
+  }
+}

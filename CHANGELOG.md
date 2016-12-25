@@ -1,3 +1,10 @@
+### Version 3.0 (25. Dezember 2016)
+
+- komplette Neuentwicklung als WebExtenion, damit auch über Firefox 57 hinaus kompatibel
+- Umstellung der Entwicklungsumgebung von jpm auf web-ext (Version: 1.6.0)
+- Es muss nicht länger auf den Button geklickt werden, um eine Meldung zu erhalten, dass eine Webseite keinen Feed
+  bereitstellt. In einem solchen Fall wird nun direkt nach dem Laden der Webseite der Button inaktiv gesetzt
+
 ### Version 2.1 (25. September 2016)
 
 - Flag für Multiprozess-Kompatibilität (e10s) gesetzt
