@@ -22,7 +22,7 @@
 
 ### Version 1.0.4 (12. Juli 2013)
 
-- Liefere Erweiterung ohne SDK-APIs aus. Reduzierung der Dateigröße von 195KB auf 16KB. Erfordert mindestens Firefox 21
+- Liefere Erweiterung ohne SDK-APIs aus. Reduzierung der Dateigröße von 195KB auf 16KB. Erfordert mindestens Firefox 21.
 
 ### Version 1.0.3 (26. März 2013)
 
