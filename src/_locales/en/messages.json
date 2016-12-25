@@ -2,6 +2,9 @@
   "extension_description": {
     "message": "SubToMe makes it easy for people to follow web sites, because browsers don't."
   },
+  "extension_name": {
+    "message": "SubToMe - Universal Follow Button"
+  },
   "actionbutton_title": {
     "message": "Subscribe to page"
   },
