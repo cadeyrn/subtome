@@ -16,7 +16,7 @@ for (let i = 0; i < length; i++) {
 }
 
 if (feeds.length > 0) {
-  browser.runtime.sendMessage({ message : 'has_feed' })
+  browser.runtime.sendMessage({ message : 'has_feed' });
 } else {
   browser.runtime.sendMessage({ message : 'has_no_feed' });
 }
