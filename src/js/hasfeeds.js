@@ -2,11 +2,14 @@
 
 var feeds = [];
 var links = document.getElementsByTagName('link');
-for (let i = 0; i < links.length; i++) {
-  if (links[i].rel) {
-    if (links[i].rel.split(' ').indexOf('alternate') >= 0) {
-      if (links[i].href && links[i].href.length > 0) {
-        feeds.push(encodeURIComponent(links[i].href));
+var length = links.length;
+
+for (let i = 0; i < length; i++) {
+  var link = links[i];
+  if (link.type && link.rel && link.rel.split(' ').indexOf('alternate') >= 0) {
+    if (link.type.indexOf('rss') >= 0 || link.type.indexOf('atom') >= 0) {
+      if (link.href && link.href.length > 0) {
+        feeds.push(encodeURIComponent(link.href));
       }
     }
   }
