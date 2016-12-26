@@ -38,6 +38,7 @@ const subtome = {
   }
 };
 
+browser.tabs.onCreated.addListener(subtome.disableButton)
 browser.tabs.onUpdated.addListener(subtome.hasFeeds);
 browser.runtime.onMessage.addListener(subtome.handleResponse);
 browser.browserAction.onClicked.addListener(subtome.browserAction);
