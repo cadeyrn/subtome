@@ -6,7 +6,7 @@ const subtome = {
   },
 
   hasFeeds : function () {
-    browser.tabs.executeScript(null, { file : 'js/hasfeeds.js' });
+    browser.tabs.executeScript(null, { file : 'js/hasfeeds.js', runAt : 'document_end' });
   },
 
   handleResponse : function (response) {
@@ -26,7 +26,7 @@ const subtome = {
   },
 
   browserAction : function () {
-    browser.tabs.executeScript(null, { file : 'js/subtome.js' });
+    browser.tabs.executeScript(null, { file : 'js/subtome.js', runAt : 'document_end' });
   }
 };
 
