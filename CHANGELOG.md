@@ -1,4 +1,4 @@
-### Version 3.0 (25. Dezember 2016)
+### Version 3.0 (26. Dezember 2016)
 
 - komplette Neuentwicklung als WebExtenion, damit auch über Firefox 57 hinaus kompatibel
 - Umstellung der Entwicklungsumgebung von jpm auf web-ext (Version: 1.6.0)
