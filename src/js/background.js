@@ -6,10 +6,7 @@ const subtome = {
   },
 
   hasFeeds : function () {
-    subtome.getActiveTab().then((tabs) => {
-      let tabId = tabs[0].id;
-      browser.tabs.executeScript(null, { file : 'js/hasfeeds.js' });
-    });
+    browser.tabs.executeScript(null, { file : 'js/hasfeeds.js' });
   },
 
   handleResponse : function (response) {
