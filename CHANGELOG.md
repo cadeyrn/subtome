@@ -1,11 +1,12 @@
 ### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (Work in Progress)
 
-#### Notable Changes
+#### Dependencies
 
-- bumped the minimum required Firefox version to Firefox 91
+- updated webext from version 1.6.0 to 6.6.0
+- setup all the development tools like htmllint, eslint, stylelint
 
-[All Changes](https://github.com/cadeyrn/subtome/compare/v2.0.0...v2.0.1)<br />
-[Download Signed WebExtension](https://addons.mozilla.org/en-US/firefox/addon/keep-or-delete-bookmarks/versions/?page=1#version-2.0.1)
+[All Changes](https://github.com/cadeyrn/subtome/compare/v3.0...v3.1.0)<br />
+[Download Signed WebExtension](https://addons.mozilla.org/en-US/firefox/addon/subtome-subscribe-button/versions/?page=1#version-3.1.0)
 
 ---
 
