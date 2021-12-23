@@ -1,5 +1,9 @@
 ### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (Work in Progress)
 
+#### Notable Changes
+
+- bumped the minimum required Firefox version to Firefox 91
+
 #### Dependencies
 
 - updated webext from version 1.6.0 to 6.6.0
