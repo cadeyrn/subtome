@@ -1,4 +1,4 @@
-### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (Work in Progress)
+### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (2021-12-23)
 
 #### Notable Changes
 
