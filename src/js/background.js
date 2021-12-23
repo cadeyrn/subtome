@@ -21,8 +21,10 @@ const subtome = {
     browser.browserAction.setTitle({ tabId : tabId, title : browser.i18n.getMessage('page_has_no_feed') });
   },
 
-  hasFeeds () {
-    browser.tabs.executeScript(null, { file : 'js/hasfeeds.js', runAt : 'document_end' });
+  hasFeeds (tabId, changeInfo) {
+    if (changeInfo.url) {
+      browser.tabs.executeScript(tabId, { file : 'js/hasfeeds.js', runAt : 'document_end' });
+    }
   },
 
   handleResponse (response) {
