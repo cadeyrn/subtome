@@ -2,6 +2,7 @@
 
 #### Notable Changes
 
+- modernized the code base, fixed all linting issues based on new development standards
 - bumped the minimum required Firefox version to Firefox 91
 
 #### Dependencies
