@@ -9,7 +9,7 @@
   },
   "developer": {
     "name": "Sören Hentzschel",
-    "url": "https://www.soeren-hentzschel.at"
+    "url": "https://www.soeren-hentzschel.at/firefox-webextensions/?utm_campaign=webext&utm_term=subtome"
   },
   "background": {
     "scripts": ["js/background.js"]
