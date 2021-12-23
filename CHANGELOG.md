@@ -1,3 +1,14 @@
+### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (Work in Progress)
+
+#### Notable Changes
+
+- bumped the minimum required Firefox version to Firefox 91
+
+[All Changes](https://github.com/cadeyrn/subtome/compare/v2.0.0...v2.0.1)<br />
+[Download Signed WebExtension](https://addons.mozilla.org/en-US/firefox/addon/keep-or-delete-bookmarks/versions/?page=1#version-2.0.1)
+
+---
+
 ### Version 3.0 (26. Dezember 2016)
 
 - komplette Neuentwicklung als WebExtension, damit auch mit Firefox 57 und höher kompatibel
