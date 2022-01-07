@@ -1,3 +1,13 @@
+### Version 3.1.1 (Work in Progress)
+
+#### Dependencies
+
+- updated eslint from version 8.5.0 to 8.6.0
+
+[All Changes](https://github.com/cadeyrn/subtome/compare/v3.1.0...master)
+
+---
+
 ### [Version 3.1.0](https://github.com/cadeyrn/subtome/releases/tag/v3.1.0) (2021-12-23)
 
 #### Notable Changes
