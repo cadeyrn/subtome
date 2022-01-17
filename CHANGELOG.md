@@ -4,7 +4,7 @@
 
 - updated eslint from version 8.5.0 to 8.7.0
 - updated eslint-plugin-compat from version 4.0.0 to 4.0.1
-- updated gulp-eslint-new from version 1.1.0 to 1.1.1
+- updated gulp-eslint-new from version 1.1.0 to 1.1.2
 
 [All Changes](https://github.com/cadeyrn/subtome/compare/v3.1.0...master)
 
