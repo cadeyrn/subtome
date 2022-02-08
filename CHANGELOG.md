@@ -7,6 +7,7 @@
 - updated gulp-eslint-new from version 1.1.0 to 1.3.0
 - updated jsdoc from version 3.6.7 to 3.6.10
 - updated stylelint from version 14.2.0 to 14.3.0
+- updated webext from version 6.6.0 to 6.7.0
 
 [All Changes](https://github.com/cadeyrn/subtome/compare/v3.1.0...master)
 
