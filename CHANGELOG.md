@@ -12,7 +12,7 @@
 - updated stylelint from version 14.2.0 to 15.0.0 and updated configuration
 - updated stylelint-csstree-validator from version 2.0.0 to 2.1.0
 - updated stylelint-order  from version 5.0.0 to 6.0.2
-- updated webext from version 6.6.0 to 6.7.0
+- updated webext from version 6.6.0 to 7.5.0
 
 [All Changes](https://github.com/cadeyrn/subtome/compare/v3.1.0...master)
 
