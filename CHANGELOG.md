@@ -1,5 +1,10 @@
 ### Version 4.0.0 (Work in Progress)
 
+#### Notable Changes
+
+- bumped the minimum required Firefox version to Firefox 109, fixes
+  [#2](https://github.com/cadeyrn/subtome/issues/2)
+
 #### Dependencies
 
 - updated eslint from version 8.5.0 to 8.33.0 and updated configuration
