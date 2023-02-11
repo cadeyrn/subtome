@@ -7,7 +7,7 @@
 
 #### Dependencies
 
-- updated eslint from version 8.5.0 to 8.33.0 and updated configuration
+- updated eslint from version 8.5.0 to 8.34.0 and updated configuration
 - updated eslint-plugin-compat from version 4.0.0 to 4.1.1
 - updated eslint-plugin-no-unsanitized from version 4.0.1 to 4.0.2
 - updated eslint-plugin-promise from version 6.0.0 to 6.1.1
