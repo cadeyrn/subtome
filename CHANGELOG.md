@@ -14,7 +14,7 @@
 - updated eslint-plugin-xss from version 0.1.11 to 0.1.12
 - updated gulp-eslint-new from version 1.1.0 to 1.7.2
 - updated jsdoc from version 3.6.7 to 4.0.0
-- updated stylelint from version 14.2.0 to 15.0.0 and updated configuration
+- updated stylelint from version 14.2.0 to 15.1.0 and updated configuration
 - updated stylelint-csstree-validator from version 2.0.0 to 2.1.0
 - updated stylelint-order  from version 5.0.0 to 6.0.2
 - updated webext from version 6.6.0 to 7.5.0
