@@ -12,7 +12,7 @@
 - updated eslint-plugin-no-unsanitized from version 4.0.1 to 4.0.2
 - updated eslint-plugin-promise from version 6.0.0 to 6.1.1
 - updated eslint-plugin-xss from version 0.1.11 to 0.1.12
-- updated gulp-eslint-new from version 1.1.0 to 1.7.1
+- updated gulp-eslint-new from version 1.1.0 to 1.7.2
 - updated jsdoc from version 3.6.7 to 4.0.0
 - updated stylelint from version 14.2.0 to 15.0.0 and updated configuration
 - updated stylelint-csstree-validator from version 2.0.0 to 2.1.0
